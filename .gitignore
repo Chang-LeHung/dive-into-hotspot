@@ -1,2 +1,2 @@
-./docs/.vitepress
-./node_modules
+./docs/.vitepress/
+./node_modules/
